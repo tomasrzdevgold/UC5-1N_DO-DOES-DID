@@ -228,7 +228,7 @@ Corrija as perguntas abaixo:
 
 4\. Does you play vídeo games?
 
-&#x09;Do you play vídeo games?
+&#x09;Do you play videogames?
 
 
 
@@ -252,7 +252,7 @@ Corrija as perguntas abaixo:
 
 8\. Your teacher speak English?
 
-&#x09;Do your teacher speak English?
+&#x09;Does your teacher speak English?
 
 
 
